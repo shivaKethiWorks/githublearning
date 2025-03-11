@@ -1,4 +1,4 @@
-print ("hello world")
+
 
 # N1=int(input("enter the N1 "))
 # N2=int(input("enter the N2 "))
