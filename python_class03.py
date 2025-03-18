@@ -5,6 +5,9 @@ print(x)
 y=[1,3,4,5,7]
 y.insert(1,2)
 y.insert(5,6)
+<<<<<<< HEAD
+print(y)
+=======
 print(y)
 
 z=[7,8,9,10]
@@ -26,3 +29,4 @@ y = d.keys()
 print(y)
 z = d.values()
 print(z)
+>>>>>>> checkout
